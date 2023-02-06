@@ -42,7 +42,7 @@ local Section = Tab:NewSection("                        cheboksariysi for games"
 
 -- Кнопка
 Section:NewButton("Murder Mystery 2", "Eclipse Hub Latest Version", function()
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/Ethanoj1/EclipseMM2/master/Script", true))()
+    loadstring(game:HttpGet(('https://raw.githubusercontent.com/Ethanoj1/EclipseMM2/master/Script'),true))()
 end)
 
 -- Кнопка
