@@ -316,7 +316,6 @@ writefile("specsscriptsfolder/8.png", game:HttpGet("https://raw.githubuserconten
 writefile("specsscriptsfolder/9.png", game:HttpGet("https://raw.githubusercontent.com/specowos/specs-scripts/main/images/8silentre.png"))
 writefile("specsscriptsfolder/10.png", game:HttpGet("https://raw.githubusercontent.com/specowos/specs-scripts/main/images/9fard.png"))
 writefile("specsscriptsfolder/11.png", game:HttpGet("https://raw.githubusercontent.com/specowos/specs-scripts/main/images/10nerd.png"))
-writefile("specsscriptsfolder/12.png", game:HttpGet("https://raw.githubusercontent.com/Liriy/basyascriptui/specsscriptsfolder/f3658200-3abc-11ea-973a-b024e3a60673.png"))
 close.MouseButton1Click:Connect(function()
     specsscripts:Destroy()
 end)
