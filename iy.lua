@@ -12201,3 +12201,5 @@ coroutine.wrap(function()
 	IntroBackground:Destroy()
 	minimizeHolder()
 end)()
+
+print("I n f Y i e l d   C u s t o m   B u i l d   6 . 1   L o a d e d !")
