@@ -2,7 +2,7 @@
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/Robojini/Tuturial_UI_Library/main/UI_Template_1"))()
 
 -- Создать окно UI
-local Window = Library.CreateLib("                                                       Xosma.Script 0.2 >", "RJTheme5")
+local Window = Library.CreateLib("SkidwareHub 1.0", "RJTheme5")
 
 -- Секция
 local Tab = Window:NewTab("functions")
@@ -11,10 +11,8 @@ local Tab = Window:NewTab("functions")
 local Section = Tab:NewSection("                           ↓ Check this out ↓")
 
 -- Кнопка
-Section:NewButton("hax speed", "just basic script", function()
-    print ("Speed with AntiWalkSpeed bypass")
-
-game:GetService("Workspace").KotMaFFaKi.Humanoid.WalkSpeed = 50
+Section:NewButton("idk", "just basic script", function()
+    print ("byfr0n g0t byp4ss3d")
 end)
 
 -- Кнопка
