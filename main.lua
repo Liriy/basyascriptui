@@ -2,7 +2,7 @@
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/Robojini/Tuturial_UI_Library/main/UI_Template_1"))()
 
 -- Создать окно UI
-local Window = Library.CreateLib("SkidwareHub 1.0", "RJTheme5")
+local Window = Library.CreateLib("SoulDewHub 1.0", "RJTheme5")
 
 -- Секция
 local Tab = Window:NewTab("functions")
